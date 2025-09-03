@@ -1,6 +1,6 @@
 module PopulationTest exposing (suite)
 
-import Expect exposing (Expectation)
+import Expect
 import Population exposing (nbYear)
 import Test exposing (..)
 
